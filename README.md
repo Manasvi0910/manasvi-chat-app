@@ -7,5 +7,5 @@ npm install
 npm start
 
 Deployment Link:
-Frontend: https://manasvi-chat-app.vercel.app/chat
+Frontend: manasvi-chat-app.vercel.app
 Backend: https://backend-manasvi-chat-app.onrender.com/
