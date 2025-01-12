@@ -18,7 +18,7 @@ authRoutes.post("/signup", signup);
 authRoutes.post("/login", login);
 authRoutes.post("/logout", logout);
 authRoutes.get("/userinfo", verifyToken, getUserInfo);
-authRoutes.post("/update-profile", verifyToken, updateProfile);
+authRoutes.post("/update-profile",  updateProfile);
 authRoutes.post(
   "/add-profile-image",
   verifyToken,
